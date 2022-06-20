@@ -1,4 +1,4 @@
-# projeto feito em c onde criei umas estruturas de dados para realizar as seguintes operações:
+# projeto feito em c onde criei umas estruturas de dados lista simples para realizar as seguintes operações:
 
     Criar nova tarefa;
     Deletar tarefa;
