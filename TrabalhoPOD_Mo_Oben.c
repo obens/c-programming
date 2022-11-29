@@ -1,13 +1,3 @@
-/*
- Este é um esqueleto que deve ser utilzado como base para implementação da Lista de tarefas;
-	- As funções não têm os parâmetros definidos; se necessário, estes devem ser incluídos;
- 	- Devem ser respeitados os nomes atribuidos aos métodos e estruturas, porém, novas estruturas e funções podem ser criadas, caso julgue necessário;
-	- Faça os includes necessários;
-	- A organização das funções fica a critério do programador;
-	- Códigos não indentados sofrerão duras penalidades;
-	- Não serão toleradas variaveis globais;
-	- Caso seja detectado plágio, os grupos envolvidos receberão nota 0.
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
